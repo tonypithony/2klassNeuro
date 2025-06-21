@@ -1,2 +1,9 @@
-# 2klassNeuro
-big-test-pretrainedklaas-shuffle
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/photo_2025-06-17_16-07-18.jpg)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/arch_model.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/loss-china-orig-bigWM-train-delta0.0001.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/acc-china-orig-bigWM-train-delta0.0001.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/predicts.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/colordiff_for_test_wm_dwtDct.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/colordiff_for_test_wm_dwtDctSvd.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/colordiff_for_test_wm_rivaGan.png)
+![](https://raw.githubusercontent.com/tonypithony/2klassNeuro/refs/heads/main/test.png)
